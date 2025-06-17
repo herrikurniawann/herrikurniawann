@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
+<img align="center" width=100% height=300 src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 <h1 align="center"> Hi👋, l'm Herri Kurniawan</h1>
 👨🏻‍💻 Mobile Developer and Front-end Developer<br> 
 🌱 I’m currently learning Flutter<br>
