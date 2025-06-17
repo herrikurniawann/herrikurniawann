@@ -1,5 +1,8 @@
-# 💫 Hi, l'm HerriKurniawan :D
-👨🏻‍💻 Mobile Developer sharing about my journey and learning in tech<br> 
+<img align="center" width=100% src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
+<h1 align="center"> Hi👋, l'm Herri Kurniawan</h1>
+👨🏻‍💻 Mobile Developer and Front-end Developer<br> 
+🌱 I’m currently learning Flutter<br>
+👯 I’m looking to collaborate on Flutter and Android Projects<br>
 🎓 Computer Science graduate from Sam Ratulangi University, Indonesia.<br> 
 📫 How to reach me herrikurniawan211@gmail.com<br>
 ⚡ Fun fact I love Sports and Chess
