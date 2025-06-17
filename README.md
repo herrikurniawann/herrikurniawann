@@ -1,11 +1,11 @@
 # 💫 Hi, l'm HerriKurniawan :D
 👨🏻‍💻 Mobile Developer sharing about my journey and learning in tech<br> 
-🎓 Graduate Computer Science at the Sam Ratulangi of University, Indonesian<br> 
+🎓 Computer Science graduate from Sam Ratulangi University, Indonesia.<br> 
 📫 How to reach me herrikurniawan211@gmail.com<br>
 ⚡ Fun fact I love Sports and Chess
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,javascript,react,mysql,postman)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,javascript,react,mysql,postman,linux,vscode,androidstudio,tailwind,vite)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=herrikurniawann&theme=neon&hide_border=false&include_all_commits=false&count_private=false) 
