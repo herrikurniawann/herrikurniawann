@@ -6,7 +6,7 @@
 ⚡ Fun fact I love Sports and Chess
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,html,css,javascript,react,mysql,postman,linux,vscode,androidstudio,git,python,numpy,pandas)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,html,css,javascript,react,mysql,postman,linux,vscode,androidstudio,git,python)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=herrikurniawann&theme=neon&hide_border=false&include_all_commits=false&count_private=false) 
